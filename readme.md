@@ -21,7 +21,8 @@ command line interface: simple text based menu for interaction
 make sure the latest version of python is installed, along with the required libraries. pandas and matplotlib can be added using pip by issuing the following commands in command prompt.
 ```
 pip install pandas 
-
+```
+```
 pip install matplotlib
 ```
 ### **usage -**
