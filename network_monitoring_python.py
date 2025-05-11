@@ -8,6 +8,7 @@ import os
 def capture_packets(packet_count=10, output_file='packet_log.csv'):
     try:
         host_ip= socket.gethostbyname(socket.gethostname())  # get the local host ip address
+        
         # create a raw socket for ipv4 traffic
         sock = socket.socket(socket.AF_INET, socket.SOCK_RAW, socket.IPPROTO_IP)
         sock.bind((host_ip, 0))  # bind to all interfaces
