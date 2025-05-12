@@ -5,15 +5,15 @@ Python tool used to capture, display, and visualise network packets, using raw s
 
 ### **FEATURES -**
 
-Packet capture: Grabs ipv4 packets from a network interface
+Packet capture - Grabs ipv4 packets from a network interface.
 
-CSV logging: Logs source and destination ips to packet_log.csv
+CSV logging - Logs source and destination ips to packet_log.csv
 
-Data display: Prints captured packet data in a tabular format
+Data display - Prints captured packet data in a tabular format.
 
-Data visualisation: Bar charts of source ip distribution using matplotlib
+Data visualisation - Bar charts of source ip distribution using matplotlib.
 
-Command line interface: Simple text based menu for interaction
+Command line interface - Simple text based menu for interaction.
 
 
 ### **INSTALLATION -**
