@@ -1,4 +1,4 @@
-### **Network monitoring tool -**
+## **Network monitoring tool -**
 
 Python tool used to capture, display, and visualise network packets, using raw sockets to inspect traffic, with pandas and matplotlib to present insights.
 
@@ -38,6 +38,8 @@ Which can then be followed by the command:
 python networking_monitoring.py
 ```
 Which will then run the script.
+
+### **Command line interface -**
 
 Following this, a menu popup will appear, with four different options. Entering the corrosponding number into the input box below will select the function requested. 
 
