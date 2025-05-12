@@ -18,14 +18,14 @@ Command line interface: Simple text based menu for interaction
 
 ### **INSTALLATION -**
 
-Make sure the latest version of python is installed, along with the required libraries. Python can be downloaded by following this link. https://www.python.org/downloads/ Pandas and matplotlib can be added using pip by issuing the following commands in command prompt.
+Make sure the latest version of python is installed, along with the required libraries. Python can be downloaded by following this link. https://www.python.org/downloads/ Pandas and matplotlib can be added using pip by typing "cmd" into the Windows search bar, and issuing the following commands.
 ```
 pip install pandas 
 ```
 ```
 pip install matplotlib
 ```
-Now, open a new command prompt by typing "cmd" into the windows search bar. Make sure to run it as administrator or the script will not run, this can be done by right clicking "cmd" when it appears and selecting "run as administrator" before opening.
+Now, open a new command prompt by typing "cmd" into the Windows search bar. Make sure to run it as administrator or the script will not run, this can be done by right clicking "cmd" when it appears and selecting "run as administrator" before opening.
 
 Next use the change directories command and find the folder where the script is located, for example: 
 ```
