@@ -1,4 +1,4 @@
-## **Network monitoring tool -**
+## **NETWORK MONITORING TOOL -**
 
 Python tool used to capture, display, and visualise network packets, using raw sockets to inspect traffic, with pandas and matplotlib to present insights.
 
